@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bri!+%F0%9F%91%8B;Full+Stack+Developer;DevOps+%26+CI%2FCD+Engineer;Building+things+that+work+in+prod+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bri!+%F0%9F%91%8B;Full+Stack+Developer;DevOps+%26+CI%2FCD;Building+things+that+work+in+prod+%E2%98%95" alt="Typing SVG" />
 
 **Full Stack Developer · DevOps & CI/CD · eKonek Pilipinas**
 📍 Cavite, Philippines 🇵🇭
